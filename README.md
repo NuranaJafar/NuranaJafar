@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Walkandwork](https://github.com/NuranaJafar/walkandwork.git)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Python,SQL**
 
 - 💬 Ask me about **Java,HTML**
 
