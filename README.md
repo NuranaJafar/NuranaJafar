@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Walkandwork](https://github.com/NuranaJafar/walkandwork.git)
 
-- 🌱 I’m currently learning **Python,SQL**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Java,HTML**
+- 💬 Ask me about **JavaScript,HTML,Css**
 
-- 📫 How to reach me **nuranadeveloper@gmail.com**
+- 📫 How to reach me **nuranadevelopee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
