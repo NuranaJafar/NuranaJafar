@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nuranajafar_" target="blank"><img src="https://img.shields.io/twitter/follow/nuranajafar_?logo=twitter&style=for-the-badge" alt="nuranajafar_" /></a> </p>
 
-- 🔭 I’m currently working on [Walkandwork](https://github.com/NuranaJafar/walkandwork.git)
+- 🔭 I’m currently working on Velyra
 
 - 🌱 I’m currently learning **C#**
 
