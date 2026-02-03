@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+NuranaJafar;A+Passionate+Frontend+Developer;From+Azerbaijan+%F0%9F%87%A9%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+NuranaJafar;A+Passionate+Frontend+Developer;From+Azerbaijan" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">✨ Creating Digital Experiences That Matter ✨</h3>
