@@ -7,13 +7,11 @@
 <p align="center">
   <a href="https://github.com/nuranajafar">
     <img src="https://komarev.com/ghpvc/?username=nuranajafar&label=Profile%20views&color=0e75b6&style=flat-square&logo=github" alt="nuranajafar" />
-  </a>
+  </a> <br>
   <a href="https://github.com/nuranajafar?tab=followers">
     <img src="https://img.shields.io/github/followers/nuranajafar?style=social" alt="followers" />
   </a>
-  <a href="https://github.com/nuranajafar?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/nuranajafar?style=social" alt="repos" />
-  </a>
+  
 </p>
 
 ---
@@ -177,21 +175,6 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-  
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuranajafar&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuranajafar&layout=compact&theme=radical&langs_count=8" alt="top langs" />
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuranajafar&theme=radical" alt="streak" />
   
 </div>
 
