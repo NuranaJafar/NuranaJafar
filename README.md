@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+NuranaJafar;A+Passionate+Full+Stack+Developer;From+Azerbaijan+%F0%9F%87%A9%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+NuranaJafar;A+Passionate+Frontend+Developer;From+Azerbaijan+%F0%9F%87%A9%F0%9F%87%B0" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">✨ Creating Digital Experiences That Matter ✨</h3>
@@ -22,56 +22,95 @@
 
 <div align="center">
   
-  👋 **Salam!** Mən NuranaJafar - Azərbaycandan olan bir **Full Stack Developer**. Texnologiya və dizaynı birləşdirərək ideyaları həqiqi və funksional layihələrə çevirirəm.
+  👋 **Hello!** I'm NuranaJafar - A passionate **Frontend Developer** from Azerbaijan 🇦🇿. I combine technology and design to transform ideas into real and functional projects.
   
-  💻 **Frontend & Backend** inkişafında ixtisaslaşmışam, müasir və istifadəçi yönümlü veb tətbiqlər yaratmağa üstünlük verirəm.
+  💻 I specialize in **Frontend Development**, creating modern, functional, and user-oriented web applications with a focus on responsive design and exceptional user experience.
   
-  🎨 **UI/UX** və **Responsive Design**-ə xüsusi diqqət yetirirəm, hər bir layihədə zərif rəng palitraları və animasiyalardan istifadə edirəm.
+  🎨 I love working with **UI/UX design**, creating clean interfaces with soft color palettes, smooth animations, and luxurious visual elements inspired by kingdom-era aesthetics.
   
-  🤖 **Discord bot** inkişafında aktiv işləyirəm, xüsusilə "Velyra Developer Community" layihəsi üzərində çalışıram.
+  🤖 I'm actively developing **Discord bots** with advanced features, styled embeds, and creative themes for various communities.
   
-  📚 **Daimi öyrənməyə** və yeni texnologiyaları praktikada tətbiq etməyə inanıram.
+  📚 I believe in continuous learning and applying new technologies in practical projects.
   
 </div>
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Active Projects
 
 <div align="center">
   
   ### 🏰 **Velyra Developer Community**
-  > Bir proqramlaşdırma icması olaraq, daha yaradıcı və sərhədləri genişləndirən bir platforma yaratmaq üçün çalışırıq. Bir çox proqramlaşdırma dilində yazan töhfə verənlərlə birlikdə işləyirik.
+  > A software community consisting of developers aiming to be more creative and boundary-pushing, with contributors who write in many programming languages.
   
-  **Status:** 🟢 Aktiv inkişaf
+  **Status:** 🟢 Active Development
   **Role:** 🧑‍💻 Community Founder & Lead Developer
+  **Tech:** Discord.js, JavaScript, JSON
   
   ---
   
-  ### 💰 **Gringotts Bankası (Discord Economy)**
-  > Harry Potter motivli, çoxpilləli valyuta konversiyası, qeydiyyat sistemləri və səviyyələrə əsaslanan bir Discord bot iqtisadiyyat sistemi.
+  ### 💃 **DeryaDance Ensemble**
+  > A modern, responsive website for a dance ensemble featuring dynamic animations, smooth scrolling, and elegant design elements.
+  
+  **Status:** 🟢 Live
+  **Features:**
+  - 🎨 Responsive design (Mobile, Tablet, Desktop)
+  - ✨ Scroll-triggered animations
+  - 🎭 Gallery with hover effects
+  - 📱 Mobile-friendly navigation
+  
+  **Tech:** HTML5, CSS3, JavaScript, Bootstrap
+  
+  ---
+  
+  ### ⏳ **La Dominia Temporum**
+  > A fictional history website with a Renaissance period theme, featuring luxurious design elements and interactive storytelling.
+  
+  **Status:** 🟢 Active Development
+  **Features:**
+  - 🏛️ Kingdom-era themed design
+  - 🎨 Soft color palette
+  - 📜 Interactive timeline
+  - ✨ Parallax effects
+  - 🎭 Historical narrative elements
+  
+  **Tech:** HTML5, CSS3, JavaScript, Custom Animations
+  
+</div>
+
+---
+
+## 🤖 Discord Bot Projects
+
+<div align="center">
+  
+  ### 💰 **Discord Economy System**
+  > A multi-tiered currency-based economy system inspired by magical banking themes with vault levels, security ratings, and rank progression.
   
   **Features:**
   - 🏦 Multi-tiered currency conversion
   - 📊 Vault levels with security ratings
   - 🏆 Rank system based on total wealth
   - 🎨 Themed embeds and progress bars
+  - 🌍 Multi-language support (Turkish, Azerbaijani)
   
-  **Status:** 🟡 In development
-  **Tech:** Discord.js, JSON, Turkish localization
+  **Status:** 🟡 In Development
+  **Tech:** Discord.js, JSON, Node.js
   
   ---
   
   ### 🎭 **Tupper Character System**
-  > Avatar dəstəyi, rol oynama elementləri və detallı profil idarəetməsi ilə zəngin bir Discord bot xarakter sistemi.
+  > An advanced character management system with rich visual outputs, avatar support, and roleplay elements for Discord communities.
   
   **Features:**
   - 🖼️ GIF/Image avatar support
   - 📜 Roleplay ranks & achievements
-  - 🎮 Interactive commands (!tulyarat, !tulsil, !tulavatar)
+  - 🎮 Interactive commands (!tulyarat, !tulsil, !tulavatar, !tulbilgi)
   - 🏛️ Medieval European lore integration
+  - 📊 Character profile management
   
-  **Status:** 🟢 Active development
+  **Status:** 🟢 Active Development
+  **Tech:** Discord.js, JSON, Styled Embeds
   
 </div>
 
@@ -82,15 +121,29 @@
 <div align="center">
   
   ### **C#** 🎯
-  > .NET ekosistemi və backend inkişafı üçün yeni bacarıqlar əldə edirəm.
+  > Expanding my skills into .NET ecosystem and backend development for full-stack capabilities.
   
   **Focus Areas:**
-  - ASP.NET Core
-  - Entity Framework
-  - RESTful API development
-  - Database integration
+  - ASP.NET Core fundamentals
+  - C# programming concepts
+  - RESTful API basics
+  - Database integration concepts
   
   **Progress:** 📊 45% Complete
+  
+  ---
+  
+  ### **Backend Development** 🚀
+  > Planning to master backend technologies to become a full-stack developer.
+  
+  **Learning Path:**
+  - 📌 Node.js & Express.js
+  - 📌 RESTful API development
+  - 📌 Database management (MongoDB, MySQL)
+  - 📌 Authentication & authorization
+  - 📌 Server-side rendering
+  
+  **Status:** 🟡 Planning Phase
   
 </div>
 
@@ -105,26 +158,24 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   </p>
   
-  ### Backend Development
+  ### Discord Bot Development
   <p>
+    <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   </p>
   
   ### Tools & Platforms
   <p>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
   
 </div>
@@ -150,48 +201,77 @@
 
 <div align="center">
   
-  ### 🎨 Design & UI/UX
-  - Responsive Design (Mobile, Tablet, Desktop)
-  - Soft Color Palettes & Kingdom Era Themes
-  - Smooth Scrolling & Scroll-triggered Animations
-  - Parallax Effects (CSS + JavaScript)
-  - Hover Animations & Button Effects
+  ### 🎨 Frontend Design & UI/UX
+  - ✅ Responsive Design (Mobile, Tablet, Desktop)
+  - ✅ Soft Color Palettes & Kingdom Era Themes
+  - ✅ Smooth Scrolling & Scroll-triggered Animations
+  - ✅ Parallax Effects (CSS + JavaScript)
+  - ✅ Hover Animations & Button Effects
+  - ✅ Line-through effects for completed tasks
+  - ✅ Clean, well-commented, and readable code
   
-  ### 💻 Development
-  - HTML, CSS, JavaScript (Core Concepts)
-  - Conditional Logic & DOM Manipulation
-  - Class Handling & Event Listeners
-  - RESTful API Development
-  - Database Design & Integration
+  ### 💻 Frontend Development
+  - ✅ HTML5, CSS3, JavaScript (Core Concepts)
+  - ✅ Conditional Logic & DOM Manipulation
+  - ✅ Class Handling & Event Listeners
+  - ✅ Bootstrap Framework
+  - ✅ CSS Grid & Flexbox
+  - ✅ External CSS & JavaScript files
+  - ✅ Separate HTML files for each page
   
   ### 🤖 Discord Bot Development
-  - Advanced Command Development
-  - Styled Embeds & Visual Outputs
-  - Economy Systems & Currency Management
-  - Character Profile Systems
-  - Multi-language Support (Turkish, Azerbaijani)
+  - ✅ Advanced Command Development
+  - ✅ Styled Embeds & Visual Outputs
+  - ✅ Economy Systems & Currency Management
+  - ✅ Character Profile Systems
+  - ✅ Multi-language Support (Turkish, Azerbaijani)
+  - ✅ Interactive Commands & User Management
+  
+  ### 📚 Learning Goals (Backend)
+  - 🔄 Node.js & Express.js
+  - 🔄 RESTful API Development
+  - 🔄 Database Management (MongoDB, MySQL)
+  - 🔄 Authentication & Security
+  - 🔄 Server-side Technologies
   
 </div>
 
 ---
 
-## 📫 Contact Me
+## 💬 Ask Me About
 
 <div align="center">
   
-  **Email:** nuranadevelopee@gmail.com
+  - 📌 JavaScript, HTML, CSS
+  - 📌 Frontend Development Best Practices
+  - 📌 UI/UX Design Principles
+  - 📌 Responsive Web Design
+  - 📌 Discord Bot Development
+  - 📌 Bootstrap Framework
+  - 📌 CSS Animations & Transitions
+  - 📌 Clean Code Practices
   
-  **Discord:** nuranajafar
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+<div align="center">
   
-  **Twitter:** @nuranajafar_
+  **📧 Email:** nuranadevelopee@gmail.com
   
-  **LinkedIn:** Nurana Jafarova
+  **💬 Discord:** nuranajafar
   
-  **Instagram:** @frontwitch
+  **🐦 Twitter:** @nuranajafar_
   
-  **YouTube:** nuranajafar
+  **💼 LinkedIn:** Nurana Jafarova
   
-  **Facebook:** Nurane Cəfərova
+  **📸 Instagram:** @frontwitch
+  
+  **🎥 YouTube:** nuranajafar
+  
+  **📘 Facebook:** Nurane Cəfərova
   
 </div>
 
@@ -222,28 +302,22 @@
 
 ---
 
-## 🏆 Achievements & Projects
+## 🏆 Portfolio Projects
 
 <div align="center">
   
-  ### 🎨 Portfolio Projects
+  ### 🌐 Web Development Projects
+  - **Velyra Developer Community** - Community platform & Discord bot
+  - **DeryaDance Ensemble** - Dance school website with animations
+  - **La Dominia Temporum** - Fictional history site with Renaissance theme
   - **E-commerce Website** - Modern, responsive design
-  - **Fictional History Site** - Kingdom era themed
-  - **Dance Ensemble Website** - Dynamic animations
-  - **Coffee Shop Website** - Clean UI/UX
-  - **Sound Laboratory** - Interactive elements
+  - **Coffee Shop Website** - Clean UI/UX with interactive elements
+  - **Sound Laboratory** - Interactive audio platform
   
   ### 🤖 Discord Bot Projects
-  - **Gringotts Bankası** - Multi-tiered economy system
+  - **Economy System** - Multi-tiered currency & ranking
   - **Tupper Character System** - Advanced profile management
-  - **Velyra Community Bot** - Community management tools
-  
-  ### 📚 Learning Journey
-  - ✅ Mastered HTML, CSS, JavaScript fundamentals
-  - ✅ Built multiple responsive websites
-  - ✅ Developed advanced Discord bots
-  - 🔄 Currently learning C# and .NET
-  - 🎯 Next: Master ASP.NET Core
+  - **Community Management Bot** - Velyra server tools
   
 </div>
 
@@ -259,15 +333,38 @@
 
 ---
 
+## 🎯 Development Philosophy
+
+<div align="center">
+  
+  ### My Approach to Development
+  
+  🎨 **Design First** - I believe beautiful design enhances user experience
+  
+  💻 **Functionality Matters** - Clean, efficient code that works seamlessly
+  
+  📱 **Mobile-First** - Responsive design that works on all devices
+  
+  ✨ **Animations & Interactions** - Smooth, engaging user interactions
+  
+  📚 **Continuous Learning** - Always improving and staying updated
+  
+  🤝 **Collaboration** - Working with others to create amazing projects
+  
+</div>
+
+---
+
 <div align="center">
   
   ### 🌟 Fun Facts
   
-  - 🎵 Music lover - always coding with background music
-  - 📚 Bookworm - especially tech and fantasy novels
-  - 🌍 Travel enthusiast - love exploring new cultures
+  - 🎵 Always coding with background music
+  - 📚 Love reading tech blogs and fantasy novels
+  - 🌍 Passionate about exploring different cultures
   - 🏆 Competitive spirit - always pushing boundaries
   - 🌱 Growth mindset - learning something new every day
+  - ☕ Coffee enthusiast ☕
   
   ---
   
